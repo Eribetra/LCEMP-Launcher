@@ -1,3 +1,6 @@
+03/05/2026
+v0.3.2: You can now edit servers.txt (for the MinecraftConsoles build) directly from LCELauncher! This helps a ton with quickly managing LCE servers, now that this functionality is implemented. This won't do anything for builds that don't support servers.txt (although nothing bad will happen if you do set one up).
+
 03/04/2026
 v0.3.1: After adding support for profiles, a smaller update has just been released. This brings an updated look to the launcher, which more closely resembles the Legacy Launcher. You can also now no longer erroneously resize the window.
 
